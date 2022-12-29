@@ -1,0 +1,22 @@
+.card1 {
+    background-color: #02225B;
+    border-radius: 15px;
+    height: auto;
+}
+
+.text1 {
+    color: #fff;
+    font-weight: 700;
+}
+
+.detail {
+    color: #fff;
+}
+
+.picture {
+    width: 90px;
+}
+
+.navbar .nav-link.nav-link-user img {
+    width: 30px;
+}
